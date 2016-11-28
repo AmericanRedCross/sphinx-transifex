@@ -49,5 +49,6 @@ git push origin gh-pages
 ### To do:
 - check and document the update process for the translation files
 - implement a pretty theme
+  - figure out homepage thing and links between languages
 - figure out generation/availability of PDF and epub downloads
 - automate the transifex and build process (write a bash script or figure out how to edit the makefile to do it)
