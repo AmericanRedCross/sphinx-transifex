@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, danbjoseph
+# This file is distributed under the same license as the lorem ipsum package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: lorem ipsum 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-28 10:32-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: danbjoseph <danbjoseph@gmail.com>, 2016\n"
+"Language-Team: Spanish (https://www.transifex.com/americanredcross/teams/67785/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../purpose.rst:2
+msgid "Purpose of the Cash in Emergencies (CiE) Toolkit"
+msgstr "Propósito de la Caja de Herramientas en Emergencias"
+
+#: ../../purpose.rst:4
+msgid ""
+"The humanitarian sector increasingly recognizes cash transfer programming "
+"(CTP) as an effective way to support people affected by emergencies, it "
+"maintains their dignity and choice, while fostering local economies. CTP "
+"includes all forms of cash and voucher-based assistance."
+msgstr ""
+"El sector humanitario cada vez reconoce más que los programas de "
+"transferencias de efectivo (PTE) son una forma eficaz para apoyar a las "
+"personas afectadas por situaciones de emergencia, ya que las personas "
+"beneficiarias mantienen su dignidad y posibilidades de escoger; a la vez que"
+" fomentan la economía local. Los PTE incluyen todas las formas de asistencia"
+" basadas en las donaciones de dinero en efectivo y cupones."
+
+#: ../../purpose.rst:6
+msgid ""
+"When responding to emergencies, especially rapid onset disasters, "
+"humanitarian agencies face numerous challenges and there is intense pressure"
+" on their resources and capacities."
+msgstr ""
+"Al responder a las emergencias, especialmente en el caso de desastres "
+"repentinos, los organismos humanitarios se enfrentan a numerosos retos y hay"
+" una intensa presión sobre sus recursos y capacidades."
+
+#: ../../purpose.rst:8
+msgid ""
+"The CiE Toolkit has been devised by the International Red Cross and Red "
+"Crescent Movement (the Movement) as a means to make tools, practical "
+"guidance, minimum standards and good practice easily accessible to field "
+"staff and volunteers."
+msgstr ""
+"La caja de herramientas para PTE en emergencias, ha sido ideada por el "
+"Movimiento Internacional de la Cruz Roja y de la Media Luna Roja (el "
+"Movimiento) como un medio para poner a disposición del personal de campo y "
+"de los voluntarios, de manera fácilmente accessible, herramientas, "
+"orientaciones prácticas, estándares mínimos y buenas prácticas. "
+
+#: ../../purpose.rst:10
+msgid ""
+"The toolkit will be disseminated within the Movement to inform and guide CTP"
+" implementation. The goal is to improve the quality of CTP at the different "
+"phases of the project cycle."
+msgstr ""
+"El kit de herramientas se difundirá dentro del Movimiento para informar y "
+"guiar la implementación PTE. El objetivo es mejorar la calidad de los PTE en"
+" las diferentes fases del ciclo del proyecto."
+
+#: ../../purpose.rst:12
+msgid ""
+"In the spirit of transparency and collaboration, the toolkit will be made "
+"available to other organizations and CTP networks."
+msgstr ""
+"En aras a la transparencia y a la colaboración, la caja de herramientas "
+"también se pondrá a disposición de otras organizaciones y redes de PTE."

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, danbjoseph
+# This file is distributed under the same license as the lorem ipsum package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: lorem ipsum 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-28 10:32-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../purpose.rst:2
+msgid "Purpose of the Cash in Emergencies (CiE) Toolkit"
+msgstr ""
+
+#: ../../purpose.rst:4
+msgid "The humanitarian sector increasingly recognizes cash transfer programming (CTP) as an effective way to support people affected by emergencies, it maintains their dignity and choice, while fostering local economies. CTP includes all forms of cash and voucher-based assistance."
+msgstr ""
+
+#: ../../purpose.rst:6
+msgid "When responding to emergencies, especially rapid onset disasters, humanitarian agencies face numerous challenges and there is intense pressure on their resources and capacities."
+msgstr ""
+
+#: ../../purpose.rst:8
+msgid "The CiE Toolkit has been devised by the International Red Cross and Red Crescent Movement (the Movement) as a means to make tools, practical guidance, minimum standards and good practice easily accessible to field staff and volunteers."
+msgstr ""
+
+#: ../../purpose.rst:10
+msgid "The toolkit will be disseminated within the Movement to inform and guide CTP implementation. The goal is to improve the quality of CTP at the different phases of the project cycle."
+msgstr ""
+
+#: ../../purpose.rst:12
+msgid "In the spirit of transparency and collaboration, the toolkit will be made available to other organizations and CTP networks."
+msgstr ""
+

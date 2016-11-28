@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, danbjoseph
+# This file is distributed under the same license as the lorem ipsum package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: lorem ipsum 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-28 10:32-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: danbjoseph <danbjoseph@gmail.com>, 2016\n"
+"Language-Team: Spanish (https://www.transifex.com/americanredcross/teams/67785/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../modules.rst:2
+msgid "CiE Toolkit overview"
+msgstr ""
+
+#: ../../modules.rst:5
+msgid "Module 1: Preparedness"
+msgstr "Módulo 1: Preparación"
+
+#: ../../modules.rst:7
+msgid ""
+"This module moves step by step through the process of preparing to implement"
+" cash responses to future emergencies. It introduces the user to the toolkit"
+" resources that are relevant when establishing a baseline, developing "
+"scenarios, conducting stakeholder and internal gap analysis, preparing and "
+"implementing a plan of action, and learning and reviewing."
+msgstr ""
+"Este módulo se mueve paso a paso en el proceso de preparar la elaboración de"
+" respuestas con transferencias de efectivo en futuras situaciones de "
+"emergencia. Se presentan al usuario  los recursos de la caja de herramientas"
+" relevantes para establecer una línea de base, para el desarrollo de "
+"escenarios, para el análisis de los actores interesados y de las "
+"deficiencias internas de la organización, para la preparación y la ejecución"
+" de un plan de acción, y para el aprendizaje y la revisión."
+
+#: ../../modules.rst:10
+msgid "Module 2: Assessment"
+msgstr ""
+
+#: ../../modules.rst:12
+msgid ""
+"This module moves step by step through the process of understanding whether "
+"or not assistance is required by an emergency-affected population and if so,"
+" exactly who, where, what, how and for how long. It introduces the user to "
+"the toolkit resources that are relevant when analysing household needs and "
+"household access to markets and services, as well as technical and "
+"organizational response capacities."
+msgstr ""
+
+#: ../../modules.rst:15
+msgid "Module 3: Response analysis"
+msgstr ""
+
+#: ../../modules.rst:17
+msgid ""
+"This module moves step by step through the process of response analysis, and"
+" introduces the user to the toolkit resources that are relevant when "
+"choosing the best transfer modalities and delivery mechanisms, deciding on "
+"the value of the transfer and targeting CTP beneficiaries."
+msgstr ""
+
+#: ../../modules.rst:20
+msgid "Module 4: Set-up and implementation"
+msgstr ""
+
+#: ../../modules.rst:22
+msgid ""
+"This module moves step by step through the process of setting-up and "
+"implementing CTP in emergencies, and introduces the user to the toolkit "
+"resources that are relevant for CTP planning, beneficiary communication and "
+"accountability, service provider selection and contracting, beneficiary "
+"registration and identification, as well as distribution and encashment."
+msgstr ""
+
+#: ../../modules.rst:25
+msgid "Module 5: Monitoring and evaluation"
+msgstr ""
+
+#: ../../modules.rst:27
+msgid ""
+"This module moves step by step through the process of monitoring and "
+"evaluating a CTP, and introduces the user to the toolkit resources that are "
+"relevant to developing M&E plans and strategy, establishing baselines, "
+"monitoring encashment, post-distribution and the market, and preparing "
+"evaluation Terns of Reference (ToRs)."
+msgstr ""
